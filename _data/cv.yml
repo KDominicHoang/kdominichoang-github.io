@@ -2,96 +2,65 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Khan Dominic Hoang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st Janurary 2006
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Highschool 
+      institution: University of North Texas, Denton, Texas
+      year: Class of 2026
+      description: Program that allows highschool students to be UNT students while completing high school diploma
+    - title: Highschool
+      institution: The Highlands School, Irving, Texas
+      year: 2022-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Xuan Guo Research Lab
+      institution: University of North Texas
+      year: 2022 September - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Worked on data visualization of mass spectrometer data under PhD student Ebrahimi Shiva
+        - Created a program that scrapes data from mass spectrum information
+    - title: Xiaohui Yuan Research Lab
+      institution: University of North Texas
+      year: 2023 January - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Worked on the task of video alignment under PhD student Siyuan Liu 
+        - Gained experience working with DTW 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Volleyball Captain
+      institution: Texas Academy of Mathematics and Science
+      year: 2023 January - Present
       description:
+        - Organized the entry of TAMS into the TBHSV league
+        - Trained the team and planned season games
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Director of Outreach
+      institution: Artificial Intelligence Society @ TAMS
+      year: 2023 March - Present
+      description: Plans volunteering efforts in and around Denton, inspiring children with the capabilities of AI
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Junior Coordinator
+      institution: TAMS Medical Society @ TAMS
+      year: 2022 November
+      description: 
+        - Planned fundraising events, raised $16k for childrens hospital
+        - Organized several dances including traditional Chinese Lion and Dance, musical, and dance choreograph
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Distributive Education Clubs of America (DECA) State Competition
+      description: 
+        - 2nd Place Financial Statement Analysis
+        - Qualified for DECA International Career Development Conference (ICDC)
+    - title: Science Olympiad Mock Competition Seven Lakes High School
+      description: 5th place in Dynamic Planet Even
