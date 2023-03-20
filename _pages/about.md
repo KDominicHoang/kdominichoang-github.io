@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle:  dominilitous06@gmail.com | TAMS, UNT
+subtitle:  
 
 profile:
   align: right
   image: deca.jpg
   image_circular: false # crops the image to make it circular
-  address: 
+  address: dominilitous06@gmail.com | TAMS, UNT
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
